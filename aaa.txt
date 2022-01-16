@@ -1,3 +1,4 @@
 記録する
 commit --amend
 git merge
+コンフリクト
