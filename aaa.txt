@@ -1,1 +1,2 @@
 記録する
+commit --amend
