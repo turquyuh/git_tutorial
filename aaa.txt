@@ -3,3 +3,4 @@ commit --amend
 git merge
 コンフリクト
 conflict
+pull request
