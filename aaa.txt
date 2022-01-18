@@ -1,3 +1,6 @@
 記録する
 commit --amend
 git merge
+コンフリクト
+conflict
+pull request
